@@ -1,0 +1,15 @@
+{
+  "name": "keep-alive-replit",
+  "version": "1.0.0",
+  "description": "Easily create a web server to keep your node app alive in platforms like repl.it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
