@@ -5,7 +5,7 @@ Usage:
 require('./keep-alive-replit').listen(80);
 ```
 
-Then, just add the URL of your project to [UptimeRobot](https://uptimerobot.com/) or other similar project, like so: 
+Then, just add the URL of your project to [UptimeRobot](https://uptimerobot.com/) or other similar platform, like so: 
 ```
 https://your-rep.your-name.repl.co/keep-alive
 ```
